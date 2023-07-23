@@ -1,10 +1,10 @@
 tae0 Study
-
-HTML
-CSS3
-Javascript
-VUE.JS
-REACT
-TypeScript
-Next.js
-Node.js
+ <br> <br>
+<strong>HTML</strong> <br>
+CSS3 <br>
+Javascript <br>
+VUE.JS <br>
+REACT <br>
+TypeScript <br>
+Next.js <br>
+Node.js <br>
